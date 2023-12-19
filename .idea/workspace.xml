@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Ajout Commande" />
+    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="changeent de repository">
+      <changelist_data name="kewou.durand" email="kewoudurand@gmail.com" date="1703023309000" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "C:/test/Menu-Restaurant/frontend",
     "node.js.detected.package.eslint": "true",
@@ -114,15 +117,37 @@
       <option name="project" value="LOCAL" />
       <updated>1700896965433</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajout Commande&#10;&#10;(cherry picked from commit d487f2ccf7296d7e2099770fb9514ad51ad13b21)">
+      <option name="closed" value="true" />
+      <created>1703350274333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703350274333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier commit" />
+    <MESSAGE value="Changement de repository" />
+    <MESSAGE value="Ajout Commande&#10;&#10;(cherry picked from commit d487f2ccf7296d7e2099770fb9514ad51ad13b21)" />
     <MESSAGE value="Ajout Commande" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout Commande" />
+    <MESSAGE value="changeent de repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="changeent de repository" />
   </component>
 </project>
