@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="changeent de repository">
-      <changelist_data name="kewou.durand" email="kewoudurand@gmail.com" date="1703023309000" />
+    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="changement de repository">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "18",
     "last_opened_file_path": "C:/test/Menu-Restaurant/frontend",
     "node.js.detected.package.eslint": "true",
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703350274333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changement de repository">
+      <option name="closed" value="true" />
+      <created>1703351572600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703351572600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +156,7 @@
     <MESSAGE value="Ajout Commande&#10;&#10;(cherry picked from commit d487f2ccf7296d7e2099770fb9514ad51ad13b21)" />
     <MESSAGE value="Ajout Commande" />
     <MESSAGE value="changeent de repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="changeent de repository" />
+    <MESSAGE value="changement de repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="changement de repository" />
   </component>
 </project>
