@@ -169,6 +169,7 @@ const Commande = () => {
             <button className="btn btn-danger" onClick={handlePaiement}>
                 Paiement
             </button>
+
         </div>
     );
 };
