@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Ajout du bouton commande terminer a">
+    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Adaptation de la pagination">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Commande.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commande.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703363000704</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adaptation de la pagination">
+      <option name="closed" value="true" />
+      <created>1703441793076</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703441793080</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +175,7 @@
     <MESSAGE value="Ajout du bouton" />
     <MESSAGE value="changement de repository" />
     <MESSAGE value="Ajout du bouton commande terminer a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout du bouton commande terminer a" />
+    <MESSAGE value="Adaptation de la pagination" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaptation de la pagination" />
   </component>
 </project>
