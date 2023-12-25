@@ -108,7 +108,7 @@ const Commande = () => {
 
     // Calculer le montant total
     const montantTotal = commandes.reduce((total, cmd) => {
-        return total + cmd.prixPlat * cmd.quantite;
+        return total + cmd.plat.prix * cmd.quantite;
     }, 0);
 
     return (
@@ -155,11 +155,13 @@ const Commande = () => {
                     <ul>
                         {commandes.map((cmd, index) => (
                             <li key={index}>
-                                Plat : {cmd.nomPlat}
+                                Code Plat : {cmd.id}
+                                <br />
+                                Plat : {cmd.plat.nom}
                                 <br />
                                 Quantité : {cmd.quantite}
                                 <br />
-                                Montant total : {cmd.prixPlat * cmd.quantite} €
+                                Prix Plat : {cmd.plat.prix * cmd.quantite} €
                             </li>
                         ))}
                     </ul>

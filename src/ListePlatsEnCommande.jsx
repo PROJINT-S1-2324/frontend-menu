@@ -89,7 +89,7 @@ const ListePlatsEnCommande = () => {
                         <td>{commande.plat.prix} €</td>
                         <td>{commande.quantite}</td>
                         <td>
-                            <button type="button" className="btn btn-danger" onClick={() => supprimerCommande(plat.id)}>Commande Terminée</button>
+                            <button type="button" className="btn btn-danger" onClick={() => supprimerCommande(commande.id)}>Code Plat  {commande.id}  Terminée</button>
                         </td>
                     </tr>
                 ))}
