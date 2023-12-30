@@ -65,4 +65,15 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+  .menu-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; /* Aligner les éléments à droite */
+    padding: 20px; /* Ajouter un peu d'espace autour du contenu */
+  }
+
+  #auth-button {
+    align-self: flex-end; /* Aligner le bouton d'authentification à droite */
+    margin-top: 20px; /* Ajouter une marge en haut du bouton */
+  }
 }
