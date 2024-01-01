@@ -13,7 +13,7 @@ const Commande = () => {
     });
 
     const [plats, setPlats] = useState([]);
-    const [commandes, setCommandes] = useState([]); // Tableau de commandes
+    const [commandes, setCommandes] = useState([]);
 
     useEffect(() => {
         const fetcher = async () => {
@@ -73,10 +73,10 @@ const Commande = () => {
             const data = await response.json();
             console.log("Réponse du serveur:", data);
 
-            // Ajouter la commande à la liste de commandes
+
             setCommandes([...commandes, data]);
 
-            // Réinitialiser le formulaire après l'envoi de la commande
+
             setCommande({
                 plat_id: '',
                 plat: {},
@@ -90,7 +90,6 @@ const Commande = () => {
     };
 
     const handlePaiement = () => {
-        // Réinitialiser la commande et la liste de commandes
         setCommande({
             plat_id: '',
             plat: {},
@@ -106,7 +105,6 @@ const Commande = () => {
         envoyerCommande();
     };
 
-    // Calculer le montant total
     const montantTotal = commandes.reduce((total, cmd) => {
         return total + cmd.plat.prix * cmd.quantite;
     }, 0);
