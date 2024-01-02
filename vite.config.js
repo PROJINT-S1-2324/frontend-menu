@@ -15,9 +15,9 @@ export default {
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:8080', // Remplacez par l'URL de votre serveur Spring Boot
+        target: 'http://localhost:8080',
         changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, ''), // Supprimez le préfixe /api
+        rewrite: (path) => path.replace(/^\/api/, ''),
       },
     },
   },
