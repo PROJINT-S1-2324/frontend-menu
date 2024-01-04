@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Optimisation">
+    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Nettoyage fichier de configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704108965933</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Nettoyage fichier de configuration">
+      <option name="closed" value="true" />
+      <created>1704201282552</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704201282552</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +220,7 @@
     <MESSAGE value="Amelioration code" />
     <MESSAGE value="Ajout du boutton list des plats" />
     <MESSAGE value="Optimisation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimisation" />
+    <MESSAGE value="Nettoyage fichier de configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nettoyage fichier de configuration" />
   </component>
 </project>
