@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Nettoyage fichier de configuration">
+    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Changement du proxy dans vite config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704201282552</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Changement du proxy dans vite config">
+      <option name="closed" value="true" />
+      <created>1704347193028</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704347193028</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +229,7 @@
     <MESSAGE value="Ajout du boutton list des plats" />
     <MESSAGE value="Optimisation" />
     <MESSAGE value="Nettoyage fichier de configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nettoyage fichier de configuration" />
+    <MESSAGE value="Changement du proxy dans vite config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changement du proxy dans vite config" />
   </component>
 </project>

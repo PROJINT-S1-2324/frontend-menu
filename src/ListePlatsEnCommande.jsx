@@ -52,7 +52,7 @@ const ListePlatsEnCommande = () => {
             }
 
             const accessToken = await getAccessTokenSilently();
-            const response = await fetch(`/api/commandeDelete/${commandeId}`, {
+            const response = await fetch(`/api/commande/${commandeId}`, {
                 method: 'DELETE',
                 headers: {
                     'Authorization': `Bearer ${accessToken}`,
