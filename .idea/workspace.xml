@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="Changement du proxy dans vite config">
+    <list default="true" id="5f2083ad-1329-45d3-abd6-8dcb68d49421" name="Changes" comment="changement de l'adresser fetch commade">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListePlatsEnCommande.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommandeForm.jsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704347193028</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changement de l'adresser fetch commade">
+      <option name="closed" value="true" />
+      <created>1704745009710</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704745009714</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +238,7 @@
     <MESSAGE value="Optimisation" />
     <MESSAGE value="Nettoyage fichier de configuration" />
     <MESSAGE value="Changement du proxy dans vite config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changement du proxy dans vite config" />
+    <MESSAGE value="changement de l'adresser fetch commade" />
+    <option name="LAST_COMMIT_MESSAGE" value="changement de l'adresser fetch commade" />
   </component>
 </project>
