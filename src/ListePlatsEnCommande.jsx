@@ -5,7 +5,7 @@ const ListePlatsEnCommande = () => {
     const { isAuthenticated, getAccessTokenSilently } = useAuth0();
     const [platsEnCommande, setPlatsEnCommande] = useState([]);
     const [currentPage, setCurrentPage] = useState(1);
-    const [platsPerPage] = useState(2); // Nombre de plats par page
+    const [platsPerPage] = useState(2);
 
     useEffect(() => {
         const chargerPlatsEnCommande = async () => {
